@@ -1,4 +1,4 @@
-# Containers?
+# Containers
 Containers are a method of **operating system virtualization** that allow for applications and their dependencies to run in **resource-isolated processes**.
 
 Containers are by far, the most associated with **Docker**, but other Container technologies are rising, like Amazon EC2 Container Service, Microsoft Azure Container Service, LXC, LXD, Solaris Zones, RKT, and BSD Jails.
