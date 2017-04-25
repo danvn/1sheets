@@ -45,7 +45,8 @@ Containers are by far, the most associated with **Docker**, but other Container 
 
 ## Related Technologies
 - [Cluster Managers](/Kubernetes.md) 
-
+	- Mesosphere
+	- Docker Swarm
 
 ## What applications, software or websites use Containers? [(lots)](https://www.docker.com/customers)
 - Google Search
